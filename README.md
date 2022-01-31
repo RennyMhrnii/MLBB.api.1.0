@@ -1,2 +1,16 @@
 # MLBB.api.1.0
 Images api mlbb
+
+TANK
+
+FIGHTER
+
+MAGE
+
+ASSASIN
+
+MARKSMAN
+
+SUPPORT
+
+
