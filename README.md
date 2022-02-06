@@ -1,22 +1,23 @@
 # MLBB.api.1.0
 Images api mlbb
 
-TANK
+🔰TANK
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_TANK/404.json
 
-FIGHTER
+🔰FIGHTER
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_FIGHTER/404.json
 
-MAGE
+🔰MAGE
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_MAGE/404.json
 
-ASSASIN
+🔰ASSASIN BASIC
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_ASSASIN/404.json
-
-MARKSMAN
+🔰ASSASIN ALL SKIN
+https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_ASSASIN/BASE/01_FIX.json
+🔰MARKSMAN
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_MARKSMAN/404.json
 
-SUPPORT
+🔰SUPPORT
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_SUPPORT/404.json
 
 
