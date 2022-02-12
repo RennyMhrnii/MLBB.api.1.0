@@ -13,9 +13,6 @@ https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_MAGE/404.json
 🔰ASSASIN BASIC
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_ASSASIN/404.json
 
-🌐ASSASIN ALL SKIN
-https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_ASSASIN/BASE/01_FIX.json
-
 🔰MARKSMAN
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_MARKSMAN/404.json
 
