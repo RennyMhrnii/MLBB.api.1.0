@@ -8,6 +8,7 @@ https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_TANK/404.json
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_FIGHTER/404.json
 
 🔰MAGE
+
 https://adefirmansyah18.github.io/MLBB.api.1.0/IMG_MAGE/404.json
 
 🔰ASSASIN BASIC
