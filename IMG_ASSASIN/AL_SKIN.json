@@ -1,0 +1,568 @@
+[
+  {
+    "NAMA": "Aamon",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Aamon.png"
+  },
+  {
+    "NAMA": "Alucard",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Alucard.png"
+  },
+  {
+    "NAMA": "Fanny",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Fanny.png"
+  },
+  {
+    "NAMA": "Benedetta",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Benedetta.png"
+  },
+  {
+    "NAMA": "Gusion",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Gusion.png"
+  },
+  {
+    "NAMA": "Hanzo",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Hanzo.png"
+  },
+  {
+    "NAMA": "Harley",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Harley.png"
+  },
+  {
+    "NAMA": "Hayabusa",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Hayabusa.png"
+  },
+  {
+    "NAMA": "Helcurt",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Helcurt.png"
+  },
+  {
+    "NAMA": "Kadita",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Kadita.png"
+  },
+  {
+    "NAMA": "Karina",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Karina.png"
+  },
+  {
+    "NAMA": "Lancelot",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lancelot.png"
+  },
+  {
+    "NAMA": "Lesley",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lesley.png"
+  },
+  {
+    "NAMA": "Ling",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Ling.png"
+  },
+  {
+    "NAMA": "Mathilda",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Mathilda.png"
+  },
+  {
+    "NAMA": "Natalia",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Natalia.png"
+  },
+  {
+    "NAMA": "Saber",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Saber.png"
+  },
+  {
+    "NAMA": "Selena",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Selena.png"
+  },
+  {
+    "NAMA": "Yi_Sun-shin",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Yi_Sun-shin.png"
+  },
+  {
+    "NAMA": "Zilong",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Zilong.png"
+  },
+{
+    "NAMA": "Aldous",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Aldous.png"
+  },
+  {
+    "NAMA": "Alpha",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Alpha.png"
+  },
+  {
+    "NAMA": "Alucard",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Alucard.png"
+  },
+  {
+    "NAMA": "Argus",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Argus.png"
+  },
+  {
+    "NAMA": "Aulus",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Aulus.png"
+  },
+  {
+    "NAMA": "Badang",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Badang.png"
+  },
+  {
+    "NAMA": "Balmon",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Balmond.png"
+  },
+  {
+    "NAMA": "Ben",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Bane.png"
+  },
+  {
+    "NAMA": "Barat",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Barats.png"
+  },
+  {
+    "NAMA": "Chou",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Chou.png"
+  },
+  {
+    "NAMA": "Dyrroth",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Dyrroth.png"
+  },
+  {
+    "NAMA": "Freya",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Freya.png"
+  },
+  {
+    "NAMA": "Gatotkaca",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Gatotkaca.png"
+  },
+  {
+    "NAMA": "Guinevere",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Guinevere.png"
+  },
+  {
+    "NAMA": "Hilda",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Hilda.png"
+  },
+  {
+    "NAMA": "Jawhead",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Jawhead.png"
+  },
+  {
+    "NAMA": "Kaja",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Kaja.png"
+  },
+  {
+    "NAMA": "Khalid",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Khaleed.png"
+  },
+  {
+    "NAMA": "Lapu-Lapu",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lapu-Lapu.png"
+  },
+  {
+    "NAMA": "Leomord",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Leomord.png"
+  },
+  {
+    "NAMA": "Martis",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Martis.png"
+  },
+  {
+    "NAMA": "Masha",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Masha.png"
+  },
+  {
+    "NAMA": "Minsitthar",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Minsitthar.png"
+  },
+  {
+    "NAMA": "Paquito",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Paquito.png"
+  },
+  {
+    "NAMA": "Phoveus",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Phoveus.png"
+  },
+  {
+    "NAMA": "Roger",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Roger.png"
+  },
+  {
+    "NAMA": "Ruby",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Ruby.png"
+  },
+  {
+    "NAMA": "Silvanna",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Silvanna.png"
+  },
+  {
+    "NAMA": "Matahari",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Sun.png"
+  },
+  {
+    "NAMA": "Terizla",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Terizla.png"
+  },
+  {
+    "NAMA": "Thamuz",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Thamuz.png"
+  },
+  {
+    "NAMA": "X.Borg",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/X.Borg.png"
+  },
+  {
+    "NAMA": "Yin",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Yin.png"
+  },
+  {
+    "NAMA": "Yu_Zhong",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Yu_Zhong.png"
+  },
+  {
+    "NAMA": "Zilong",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Zilong.png"
+  },
+
+{
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Alice.png",
+    "NAMA": "Alice"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Aurora.png",
+    "NAMA": "Aurora"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Bane.png",
+    "NAMA": "Bane"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Cecilion.png",
+    "NAMA": "Cecilion"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Chang%2527e.png",
+    "NAMA": "Chang%2527e"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Cyclops.png",
+    "NAMA": "Cyclops"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Esmeralda.png",
+    "NAMA": "Esmeralda"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Eudora.png",
+    "NAMA": "Eudora"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Faramis.png",
+    "NAMA": "Faramis"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Gord.png",
+    "NAMA": "Gord"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Harith.png",
+    "NAMA": "Harith"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Harley.png",
+    "NAMA": "Harley"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Kadita.png",
+    "NAMA": "Kadita"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Kagura.png",
+    "NAMA": "Kagura"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lunox.png",
+    "NAMA": "Lunox"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lylia.png",
+    "NAMA": "Lylia"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Nana.png",
+    "NAMA": "Nana"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Luo_Yi.png",
+    "NAMA": "Luo_Yi"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Odette.png",
+    "NAMA": "Odette"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Pharsa.png",
+    "NAMA": "Pharsa"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Selena.png",
+    "NAMA": "Selena"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Vale.png",
+    "NAMA": "Vale"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Valentina.png",
+    "NAMA": "Valentina"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Valir.png",
+    "NAMA": "Valir"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Vexana.png",
+    "NAMA": "Vexana"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Yve.png",
+    "NAMA": "Yve"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Zhask.png",
+    "NAMA": "Zhask"
+  },
+
+{
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Beatrix.png",
+    "NAMA": "Beatrix"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Brody.png",
+    "NAMA": "Brody"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Bruno.png",
+    "NAMA": "Bruno"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Claude.png",
+    "NAMA": "Claude"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Clint.png",
+    "NAMA": "Clint"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Edith.png",
+    "NAMA": "Edith"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Granger.png",
+    "NAMA": "Granger"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Hanabi.png",
+    "NAMA": "Hanabi"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Irithel.png",
+    "NAMA": "Irithel"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Karrie.png",
+    "NAMA": "Karrie"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Kimmy.png",
+    "NAMA": "Kimmy"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Layla.png",
+    "NAMA": "Laila"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lesley.png",
+    "NAMA": "Lesley"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Miya.png",
+    "NAMA": "Miya"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Moskov.png",
+    "NAMA": "Moskov"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Popol_and_Kupa.png",
+    "NAMA": "Popol_dan_Kupa"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Roger.png",
+    "NAMA": "Roger"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Wanwan.png",
+    "NAMA": "Wanwan"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Yi_Sun-shin.png",
+    "NAMA": "Yi_Sun-shin"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Natan.png",
+    "NAMA": "Natan"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Melissa.png",
+    "NAMA": "Melissa"
+  },
+{
+    "NAMA": "Akai",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Akai.png"
+  },
+  {
+    "NAMA": "Atlas",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Atlas.png"
+  },
+  {
+    "NAMA": "Alice",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Alice.png"
+  },
+  {
+    "NAMA": "Barats",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Barats.png"
+  },
+  {
+    "NAMA": "Baxia",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Baxia.png"
+  },
+  {
+    "NAMA": "Belerick",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Belerick.png"
+  },
+  {
+    "NAMA": "Edith",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Edith.png"
+  },
+  {
+    "NAMA": "Esmeralda",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Esmeralda.png"
+  },
+  {
+    "NAMA": "Franco",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Franco.png"
+  },
+  {
+    "NAMA": "Gloo",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Gloo.png"
+  },
+  {
+    "NAMA": "Gatotkaca",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Gatotkaca.png"
+  },
+  {
+    "NAMA": "Grock",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Grock.png"
+  },
+  {
+    "NAMA": "Hilda",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Hilda.png"
+  },
+  {
+    "NAMA": "Hylos",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Hylos.png"
+  },
+  {
+    "NAMA": "Johnson",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Johnson.png"
+  },
+  {
+    "NAMA": "Khufra",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Khufra.png"
+  },
+  {
+    "NAMA": "Lolita",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lolita.png"
+  },
+  {
+    "NAMA": "Minotaur",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Minotaur.png"
+  },
+  {
+    "NAMA": "Ruby",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Ruby.png"
+  },
+  {
+    "NAMA": "Tigreal",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Tigreal.png"
+  },
+  {
+    "NAMA": "Uranus",
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Uranus.png"
+  },
+{
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Akai.png",
+    "NAMA": "Akai"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Angela.png",
+    "NAMA": "Angela"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Atlas.png",
+    "NAMA": "Atlas"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Carmilla.png",
+    "NAMA": "Carmilla"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Diggie.png",
+    "NAMA": "Diggie"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Estes.png",
+    "NAMA": "Estes"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Faramis.png",
+    "NAMA": "Faramis"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Floryn.png",
+    "NAMA": "Floryn"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Franco.png",
+    "NAMA": "Franco"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Kaja.png",
+    "NAMA": "Kaja"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Khufra.png",
+    "NAMA": "Khufra"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Lolita.png",
+    "NAMA": "Lolita"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Mathilda.png",
+    "NAMA": "Mathilda"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Minotaur.png",
+    "NAMA": "Minotaur"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Nana.png",
+    "NAMA": "Nana"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Rafaela.png",
+    "NAMA": "Rafaela"
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_IMG/Tigreal.png",
+    "NAMA": "Tigreal"
+  }
+]
